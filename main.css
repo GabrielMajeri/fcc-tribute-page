@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    max-width: 50em;
+    text-align: justify;
+    text-justify: auto;
+}
+
+header {
+    text-align: center;
+}
+
+#image {
+    display: block;
+
+    height: auto;
+    width: 100%;
+
+    max-width: 431px;
+    margin: 1em auto;
+}
