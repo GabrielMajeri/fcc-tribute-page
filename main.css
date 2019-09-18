@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    max-width: 50em;
+    max-width: 50rem;
     text-align: justify;
     text-justify: auto;
 }
@@ -24,5 +24,10 @@ header {
     width: 100%;
 
     max-width: 431px;
-    margin: 1em auto;
+    margin: 1rem auto;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
 }
