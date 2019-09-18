@@ -31,3 +31,13 @@ footer {
     margin-top: 2rem;
     text-align: center;
 }
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 1rem;
+    background-color: #eee;
+    border-radius: 10px;
+}
